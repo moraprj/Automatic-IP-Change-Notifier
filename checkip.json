@@ -1,0 +1,12 @@
+{
+    "urls": {
+        "last_ip": "0.0.0.0", 
+        "check_ip": "http://checkip.dyndns.org", 
+        "last_ip_updated": "Fri Feb 26 21:09:47 2016"
+    }, 
+    "Gmail": {
+        "password": "password", 
+        "emailto": "mail_receiver@gmail.com", 
+        "email": "mail_sender@gmail.com"
+    }
+}
